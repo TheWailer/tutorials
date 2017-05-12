@@ -18,6 +18,7 @@ import org.springframework.web.util.UriComponentsBuilder;
 import com.concretepage.entity.Article;
 import com.concretepage.service.IArticleService;
 
+
 @Controller
 @RequestMapping("user")
 public class ArticleController {
